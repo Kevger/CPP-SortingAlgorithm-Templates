@@ -1,5 +1,5 @@
 # CPP_SortingAlgorithm_Templates
-Different sorting algorithms templates (optional multithreading) for C++
+Different sorting algorithm templates (optional multithreading) for C++
 
 Feel free to use them :-)
 
