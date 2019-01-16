@@ -1,6 +1,7 @@
+![Setup](infographics.png "Setup")
+
 # CPP_SortingAlgorithm_Templates
 Different sorting algorithm templates for C++, with optional multithreading.
-
 
 ## Included algorithms:
   - cycle sort
@@ -38,5 +39,4 @@ Different sorting algorithm templates for C++, with optional multithreading.
   //sorting::combsort(data.begin(),data.end(),[](const int & a, const int & b){ return a > b;});
 ```
 
-![](https://github.com/Kevger/SortVisualization/blob/master/Screenshots/Example1.png "My other project")
 This library is used in my other project  [SortVisualization](https://github.com/Kevger/SortVisualization)
